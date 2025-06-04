@@ -6,7 +6,7 @@ I keep coming back to this platform every now and then, usually in my spare time
 
 This collection is like a visual journal of my coding journey.
 
-🎨 Take a look here! https://www.w3schools.com](https://editor.p5js.org/gabrielle.barthelmy/collections/lmdzmpC_t)
+🎨 Take a look here! https://editor.p5js.org/gabrielle.barthelmy/collections/lmdzmpC_t
 
 Hope you enjoy exploring it as much as I enjoyed making it 💫
 
